@@ -80,7 +80,7 @@ to see a show page for that specific trail.
 ```
 As a visitor,
 when I visit a trail's page,
-I see the name, address, and total length of
+I see the name and total length of
 every hiking trip that includes this trail
 ```
 

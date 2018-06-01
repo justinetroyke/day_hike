@@ -18,7 +18,7 @@ describe 'Visits trips index page' do
       expect(page).to have_content(trip2.name)
     end
 
-    it "shows names of all trips" do
+    it "clicking name goest to show" do
       name = 'Punch Bowl'
       name2 = 'Rincon'
       start = '2018-05-28 08:37:48'
